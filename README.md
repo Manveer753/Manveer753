@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manveer</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manveer753?tab=repositories](here)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Manveer753?tab=repositories)
 
 - 📫 How to reach me **manveergill293@gmail.com**
 
