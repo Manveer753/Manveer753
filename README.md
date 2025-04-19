@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manveer</h1>
-<h3 align="center">An aspiring Software Developer</h3>
 
 - 📫 How to reach me **manveergill293@gmail.com**
 
